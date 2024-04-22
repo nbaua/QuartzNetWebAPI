@@ -1,0 +1,6 @@
+@QuartzNetWebAPI_HostAddress = http://localhost:5091
+
+GET {{QuartzNetWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
